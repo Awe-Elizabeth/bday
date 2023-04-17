@@ -71,11 +71,11 @@ h1, h2, h3, h4, p {
 }
 
 #genius-img:hover {
-    background-image: url("./images/haappy-gif.webp") ;
+    background-image: url("./images/genius.gif") ;
 }
 
 #badass-img:hover {
-    background-image: url("./images/haappy-gif.webp") ;
+    background-image: url("./images/badass.gif") ;
 }
 
 #cheers-img {
@@ -89,7 +89,7 @@ h1, h2, h3, h4, p {
 }
 
 #cheers-img:hover {
-background-image: url("./images/hot-gif.webp");
+background-image: url("./images/cheers.gif");
 background-size: cover;
 }
 
